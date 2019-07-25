@@ -1,0 +1,24 @@
+{
+  "name": "react-native-template-simplify-advanced",
+  "version": "1.0.0",
+  "description": "Template para projetos em React Native, com Estrutura de Pastas customizada, Estilos Globais, ESLint + Prettier + Babel Plugin Root Import, React Navigation, Redux, Redux Saga, Reactotron e Axios configurados.",
+  "keywords": [
+    "react-native",
+    "template",
+    "simplify",
+    "eslint",
+    "react-navigation",
+    "reactotron",
+    "babel-root-import",
+    "axios",
+    "redux",
+    "redux-saga"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplify-tecnologia/react-native-template-simplify-advanced.git"
+  },
+  "homepage": "https://github.com/simplify-tecnologia/react-native-template-simplify-advanced#readme",
+  "author": "Cesar Denis <cesar@simplify.com.br>",
+  "license": "MIT"
+}
